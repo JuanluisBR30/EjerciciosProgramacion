@@ -1,0 +1,18 @@
+C:\Users\Juan Barrios\Documents\SharpDevelop Projects\Rockola\Rockola\bin\Debug\Rockola.exe.config
+C:\Users\Juan Barrios\Documents\SharpDevelop Projects\Rockola\Rockola\bin\Debug\Rockola.exe
+C:\Users\Juan Barrios\Documents\SharpDevelop Projects\Rockola\Rockola\bin\Debug\Rockola.pdb
+C:\Users\Juan Barrios\Documents\SharpDevelop Projects\Rockola\Rockola\obj\Debug\Rockola.csprojResolveAssemblyReference.cache
+C:\Users\Juan Barrios\Documents\SharpDevelop Projects\Rockola\Rockola\obj\Debug\Rockola.csproj.GenerateResource.Cache
+C:\Users\Juan Barrios\Documents\SharpDevelop Projects\Rockola\Rockola\obj\Debug\Rockola.exe
+C:\Users\Juan Barrios\Documents\SharpDevelop Projects\Rockola\Rockola\obj\Debug\Rockola.pdb
+C:\Users\Juan Barrios\Documents\SharpDevelop Projects\Rockola\Rockola\obj\Debug\Rockola.Form1.resources
+C:\Users\Juan Barrios\Documents\SharpDevelop Projects\Rockola\Rockola\obj\Debug\Rockola.Reproductor.resources
+C:\Users\Juan Barrios\Desktop\concredito\Rockola\Rockola\bin\Debug\Rockola.exe.config
+C:\Users\Juan Barrios\Desktop\concredito\Rockola\Rockola\bin\Debug\Rockola.exe
+C:\Users\Juan Barrios\Desktop\concredito\Rockola\Rockola\bin\Debug\Rockola.pdb
+C:\Users\Juan Barrios\Desktop\concredito\Rockola\Rockola\obj\Debug\Rockola.csprojResolveAssemblyReference.cache
+C:\Users\Juan Barrios\Desktop\concredito\Rockola\Rockola\obj\Debug\Rockola.Form1.resources
+C:\Users\Juan Barrios\Desktop\concredito\Rockola\Rockola\obj\Debug\Rockola.Reproductor.resources
+C:\Users\Juan Barrios\Desktop\concredito\Rockola\Rockola\obj\Debug\Rockola.csproj.GenerateResource.Cache
+C:\Users\Juan Barrios\Desktop\concredito\Rockola\Rockola\obj\Debug\Rockola.exe
+C:\Users\Juan Barrios\Desktop\concredito\Rockola\Rockola\obj\Debug\Rockola.pdb

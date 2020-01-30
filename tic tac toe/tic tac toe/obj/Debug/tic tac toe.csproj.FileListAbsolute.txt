@@ -1,0 +1,6 @@
+C:\Users\Juan Barrios\Documents\SharpDevelop Projects\tic tac toe\tic tac toe\obj\Debug\tic tac toe.csprojResolveAssemblyReference.cache
+C:\Users\Juan Barrios\Documents\SharpDevelop Projects\tic tac toe\tic tac toe\bin\Debug\tic tac toe.exe.config
+C:\Users\Juan Barrios\Documents\SharpDevelop Projects\tic tac toe\tic tac toe\bin\Debug\tic tac toe.exe
+C:\Users\Juan Barrios\Documents\SharpDevelop Projects\tic tac toe\tic tac toe\bin\Debug\tic tac toe.pdb
+C:\Users\Juan Barrios\Documents\SharpDevelop Projects\tic tac toe\tic tac toe\obj\Debug\tic tac toe.exe
+C:\Users\Juan Barrios\Documents\SharpDevelop Projects\tic tac toe\tic tac toe\obj\Debug\tic tac toe.pdb

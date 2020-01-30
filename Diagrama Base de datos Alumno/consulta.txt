@@ -1,0 +1,39 @@
+
+
+
+SELECT Alumnos.Nombre_Alumno,Alumnos.Apellido_Paterno,Alumnos.Apellido_Materno, Materias.Nombre_Materia,Promedio  FROM Promedios 
+INNER JOIN Alumnos ON Promedios.idAlumno = Alumnos.idAlumno
+INNER JOIN Materias ON Promedios.idMateria = Materias.idMateria
+ORDER BY Promedios DESC
+LIMIT 10;
+
+
+----------------------------------------
+Nombre_Alumno  Apellido Paterno   Apellido Materno   Materia      Promedio
+
+juan jose       Perez             Andrade            Matematicas   10
+
+jose            mendoza           paez               algebra       9.8
+
+adolfo          mendez            Aragon             Quimica       9.8
+
+juan            coronel           perez              Matematicas   9.3
+
+.
+.
+.
+.
+.
+.
+.
+N 1O
+
+
+
+------------------------------------------
+
+
+
+
+
+
